@@ -17705,6 +17705,7 @@ SaaSio - HR Management
 /*Partner area*/
 /*----------------------------------------------------*/
 .smm-partner-section {
+  padding-bottom: 28px;
 }
 .smm-partner-section .smm-partner-wrapper {
   z-index: 5;
@@ -17712,6 +17713,11 @@ SaaSio - HR Management
   background-color: #fff;
   border-top: 2px solid #e7ea3f;
   box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+  box-shadow: 5px 9px 18px #000000;
+}
+.smm-partner-wrapper{
+ 
 }
 .smm-partner-section .smm-partner-slider .owl-nav {
   display: none;
